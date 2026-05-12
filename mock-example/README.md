@@ -2,7 +2,7 @@
 
 ## Запуск
 ```bash 
-python -m main
+  python -m main
 ```
 
 **Адрес Swagger: http://0.0.0.0:8000/docs**
